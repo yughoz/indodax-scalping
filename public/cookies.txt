@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sobatbangun.com	TRUE	/	FALSE	1999999999	JSESSIONID	1AAB1B1C4E5D98307E7571B744A344F1
+www.sobatbangun.com	TRUE	/	FALSE	1999999999	COOKIE_SUPPORT	true
+.google.com	TRUE	/	FALSE	1999999999	NID	204=S_uecx-WFOifbCoxK6udjluZdTXsr-WJ_1NES8JjueXsXotVf1ZBEXi063P7b5_SSR3zBxqNaW5Uy_oacswoSWNfivVEXY_9xmwVCLCyMdv9WvMWTS7corswWrlUsJf3APxpim7vM2GPIxFjZ23kc2UzBc425tI1oBviPhQJE48
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_lZr+LQvgmzy9g0fZHGzkfA=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A160571835979625280
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+accounts.google.com	TRUE	/	FALSE	1999999999	__Host-GAPS	1:X5m9__dDWCkpvuALrShIwd6XRDrXmQ:LOythjw06SAHkj67
+accounts.google.com	TRUE	/	FALSE	1999999999	Priority	HIGH
+.sobatbangun.com	TRUE	/	FALSE	1999999999	GUEST_LANGUAGE_ID	en_US
+www.sobatbangun.com	TRUE	/	FALSE	1999999999	AWSALB	uWUkgdeKfr2nSzsyShsqhpssQsZvjclDmBGmAZXFPV/Ov4qEeSN0d9MlCk+1eG74UnFnAIO2GjGiEG5IipmC3h9Z1QH2mCpgjLg+fq4oHyKMIFDmtagKFJis1xZB
+www.sobatbangun.com	TRUE	/	FALSE	1999999999	AWSALBCORS	uWUkgdeKfr2nSzsyShsqhpssQsZvjclDmBGmAZXFPV/Ov4qEeSN0d9MlCk+1eG74UnFnAIO2GjGiEG5IipmC3h9Z1QH2mCpgjLg+fq4oHyKMIFDmtagKFJis1xZB
+www.sobatbangun.com	TRUE	/	FALSE	1999999999	SameSite	None
+
